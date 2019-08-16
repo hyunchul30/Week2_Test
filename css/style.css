@@ -1,0 +1,31 @@
+.images {
+  display: flex;
+
+    vertical-align: middle;
+
+  }
+
+.corn {
+
+  color: #3d392d;
+  font-weight:bold;
+
+}
+
+.radio {
+
+  color: #397d4b;
+
+}
+
+label {
+  cursor: default;
+
+
+
+}
+
+img{
+
+  float: right;
+}
