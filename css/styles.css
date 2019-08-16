@@ -7,14 +7,14 @@
 
 .corn {
 
-  color: #3d392d;
+  color: #434952;
   font-weight:bold;
 
 }
 
 .radio {
 
-  color: #397d4b;
+  color: #384554;
 
 }
 
@@ -25,7 +25,7 @@ label {
 
 }
 
-img{
+.images{
 
   float: right;
 }
