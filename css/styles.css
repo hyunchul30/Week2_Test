@@ -21,11 +21,18 @@
 label {
   cursor: default;
 
-
-
 }
 
 .images{
 
-  float: right;
+  float:right;
+}
+.green-background{
+  background-color: green;
+}
+.red-background{
+  background-color: red;
+}
+.orange-background{
+  background-color: orange;
 }
